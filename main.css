@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
+
+h1 {
+  font-family: 'Fredericka the Great';
+  font-size: 65px;
+  color: rgb(255,105,180);
+  text-align: center;
+}
+
+h2 {
+  font-size: 25px;
+  color: rgb(3, 192, 193)
+}
+
+h3 {
+  color: rgb(241, 12, 69)
+}
+
+h4 {
+  color: rgb(255,105,180);
+}
+
+img {
+  width: 100%;
+}
+
+.product {
+  display: inline-block;
+  width: 24%;
+  border: 5px solid rgb(170, 114, 97);
+  background-color: rgb(255,105,180);
+  margin: 30px 10px;
+  padding: 30px;
+}
+
+.location {
+  width: 30%
+}
+
+
+body {
+  width: 1024px;}
